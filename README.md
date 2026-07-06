@@ -22,11 +22,7 @@ REST APIs, Service Design, Docker, Linux, GitHub Actions
 | Project | Focus |
 | --- | --- |
 | [AIOps_Agent](https://github.com/wudiqiegaoleng63/AIOps_Agent) | AI Agent for operations and diagnostics |
-| [AI-toutiao](https://github.com/wudiqiegaoleng63/AI-toutiao) | AI-powered Toutiao-style application |
-| [toutiao_backend](https://github.com/wudiqiegaoleng63/toutiao_backend) | Backend service for a content platform |
 | [Develop-a-WeChat-like-app](https://github.com/wudiqiegaoleng63/Develop-a-WeChat-like-app) | Chat and social app development practice |
-| [transformer](https://github.com/wudiqiegaoleng63/transformer) | Transformer implementation practice |
-| [GRPO-](https://github.com/wudiqiegaoleng63/GRPO-) | Reinforcement learning / LLM training exploration |
 
 ## Contact
 
